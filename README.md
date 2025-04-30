@@ -49,3 +49,4 @@ This score suggests that the model is performing reasonably well, but there may 
 
 This project demonstrates the application of decision tree algorithms for classification tasks, with a particular focus on handling specific features like `AGE` (regression attribute). The F1 score indicates that the model is fairly effective, though further tuning, such as adjusting the maximum depth or experimenting with different splitting criteria, could improve performance.
 
+!!! notice that executing code may takes 180 seconds (because of the dataset) !!!
